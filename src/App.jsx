@@ -9,7 +9,7 @@ import MovieDetail from "./pages/MovieDetail";
 
 function App() {
   return (
-    <div className="bg-black min-h-screen text-white">
+    <div className="bg-black min-h-screen text-white pt-13 md:pt-18">
       <BrowserRouter>
         <Navbar />
         <Routes>

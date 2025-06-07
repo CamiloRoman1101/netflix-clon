@@ -20,8 +20,6 @@ const MovieDetail = () => {
     fetchMovieDetail();
   }, [id]);
 
-  console.log(movie);
-
   if (!movie) {
     return (
       <div className="bg-black flex items-center justify-center py-20">
@@ -33,7 +31,7 @@ const MovieDetail = () => {
   return (
     <div className="bg-black text-white">
       <section 
-        className="relative h-[70vh] md:h-[70vh] bg-cover bg-center bg-no-repeat"
+        className="relative h-[70vh] md:h-[90vh] bg-cover bg-center bg-no-repeat"
         style={{
           backgroundImage: `linear-gradient(to bottom, rgba(0,0,0,0.3) 0%, rgba(0,0,0,0.7) 100%), url(https://image.tmdb.org/t/p/original${movie.backdrop_path})`,
         }}
