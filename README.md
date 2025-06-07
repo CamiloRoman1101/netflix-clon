@@ -181,7 +181,7 @@ Este proyecto está bajo la Licencia MIT - ve el archivo [LICENSE](LICENSE) para
 ---
 
 <div align="center">
-  <p>Hecho con ❤️ por <a href="https://github.com/tu-usuario">Camilo Román Bedoya</a></p>
+  <p>Hecho con ❤️ por <a href="https://github.com/CamiloRoman1101">Camilo Román Bedoya</a></p>
   <p>⭐ ¡Dale una estrella si te gustó el proyecto!</p>
 </div>
 
