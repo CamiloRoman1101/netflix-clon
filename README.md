@@ -187,9 +187,8 @@ Este proyecto está bajo la Licencia MIT - ve el archivo [LICENSE](LICENSE) para
 
 ## 📞 Contacto
 
-- 📧 Email: tu-email@ejemplo.com
-- 💼 LinkedIn: [Tu Perfil](https://linkedin.com/in/tu-perfil)
-- 🐦 Twitter: [@tu_usuario](https://twitter.com/tu_usuario)
+- 📧 Email: Camiloroman7@gmail.com
+
 
 ---
 
